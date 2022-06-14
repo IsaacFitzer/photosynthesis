@@ -1,1 +1,1 @@
-## Based on the board game photosynthesis
+## Based on the board game Photosynthesis
